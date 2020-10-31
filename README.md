@@ -1,4 +1,4 @@
-# ReasonReactNativeDesignPatterns using [React-Native-Web](https://github.com/necolas/react-native-web) in ReasonML and [ReasonReactNative](https://github.com/reason-react-native/reason-react-navigation)
+# ReasonReactNativeDesignPatterns using [React-Native-Web](https://github.com/necolas/react-native-web) in ReasonML and [ReasonReactNative](https://github.com/reason-react-native/reason-react-native)
 
 ## Running
 
