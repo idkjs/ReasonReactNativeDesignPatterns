@@ -1,0 +1,35 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-art": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native-web": "0.14.7",
+    "react-refresh": "^0.9.0",
+    "react-scripts": "4.0.0",
+    "reason-react": "0.9.1",
+    "reason-react-native": "0.62.3"
+  },
+  "devDependencies": {
+    "bs-platform": "8.3.1",
+    "resize-observer-polyfill": "1.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "watch": "bsb -make-world -w",
+    "clean": "bsb -clean-world",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
