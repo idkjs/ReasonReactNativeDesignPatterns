@@ -1,15 +1,7 @@
 open ReactNative;
 open Utils;
 open Styles;
-        // <View style=styles##header>
-        //   <Image
-        //     accessibilityLabel="React logo"
-        //     source=Image.Source.fromRequired(Packager.require("./assets/logoUri.svg"))
-        //     resizeMode=`contain
-        //     style=styles##logo
-        //   />
-        //   <Text style=styles##title> "React Native for Web"->s </Text>
-        // </View>
+
 [@react.component]
 let make = () =>
       <View style=styles##app>
